@@ -1,0 +1,13 @@
+# Node & React
+node_modules/
+.env
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Common
+.DS_Store
+*.log
